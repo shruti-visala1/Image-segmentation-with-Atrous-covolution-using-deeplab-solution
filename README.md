@@ -1,16 +1,16 @@
 # Image segmentation using deeplab solution
 
 
-Image segmentation
+*Image segmentation*
 ● An image is a collection or set of different pixels.
 ● We group together the pixels that have similar attributes using image segmentation
 ● Image segmentation could involve separating foreground from background, or
 clustering regions of pixels based on similarities in color or shape
 
 
-Atrous convolution
+*Atrous convolution*
 
-Features 
+***Features***
 
 Modify filter’s field-of view.
   ●Small field-of-view
