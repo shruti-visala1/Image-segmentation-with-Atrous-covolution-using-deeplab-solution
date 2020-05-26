@@ -1,9 +1,12 @@
 # Image segmentation using deeplab solution
 
 
-**Image segmentation**
+**Image segmentation**  
+
 ● An image is a collection or set of different pixels.
+
 ● We group together the pixels that have similar attributes using image segmentation
+
 ● Image segmentation could involve separating foreground from background, or
 clustering regions of pixels based on similarities in color or shape
 
@@ -13,9 +16,12 @@ clustering regions of pixels based on similarities in color or shape
 ***Features***
 
 Modify filter’s field-of view.
+
   ●Small field-of-view
   ●Large field-of-view 
+  
 Control the feature response without any increase in parameters.
+
 Makes the output feature map larger.
 
 
@@ -32,10 +38,9 @@ Makes the output feature map larger.
 4. Run deeplab.py
     python deeplab.py
     
-    
- OUTPUT 
- ![Image description](https://www.google.co.in/url?sa=i&url=https%3A%2F%2Fmc.ai%2Freview-segnet-semantic-segmentation%2F&psig=AOvVaw3WUY0Z_za_9UN91Zf2bV2v&ust=1590587026181000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJCu55DV0ekCFQAAAAAdAAAAABAD)
- 
+  
+  
+**You can add your own detection objects and labels by changing get_dataset_colormap.py **
 
 
 
