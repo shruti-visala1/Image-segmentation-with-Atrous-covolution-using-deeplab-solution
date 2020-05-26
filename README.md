@@ -1,14 +1,14 @@
 # Image segmentation using deeplab solution
 
 
-*Image segmentation*
+**Image segmentation**
 ● An image is a collection or set of different pixels.
 ● We group together the pixels that have similar attributes using image segmentation
 ● Image segmentation could involve separating foreground from background, or
 clustering regions of pixels based on similarities in color or shape
 
 
-*Atrous convolution*
+**Atrous convolution**
 
 ***Features***
 
@@ -20,7 +20,7 @@ Makes the output feature map larger.
 
 
 
-Followig are the steps to run the code
+--> Followig are the steps to run the code
 1 . Unzip the deeplab_model.tar.zip and extract deeplab_model.tar.gz from it and put it in the same folder were deeplab.py is present
 
 2. Create a virtual evironment (All the steps here are using anaconda)
@@ -34,7 +34,7 @@ Followig are the steps to run the code
     
     
  OUTPUT 
- ![Image description](https://www.google.co.in/url?sa=i&url=https%3A%2F%2Fwww.pyimagesearch.com%2F2018%2F09%2F03%2Fsemantic-segmentation-with-opencv-and-deep-learning%2F&psig=AOvVaw2ZNRYZ3_2Jq8GZ9SNkwkAt&ust=1590585773459000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLiqnoLS0ekCFQAAAAAdAAAAABAD)
+ ![Image description](https://www.google.co.in/url?sa=i&url=https%3A%2F%2Fmc.ai%2Freview-segnet-semantic-segmentation%2F&psig=AOvVaw3WUY0Z_za_9UN91Zf2bV2v&ust=1590587026181000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJCu55DV0ekCFQAAAAAdAAAAABAD)
  
 
 
